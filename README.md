@@ -36,4 +36,5 @@ The Todo App serves as a basic task management tool, allowing users to organize 
 - Developed by [Abhishek kr Jha].
 - Inspired by [Hitesh Chaudhary] for learning Redux Toolkit with Next.js.
 
+##Video Demo
 [![Watch the video](https://img.youtube.com/vi/HazcrK0w7GE/0.jpg)](https://www.youtube.com/watch?v=HazcrK0w7GE)
